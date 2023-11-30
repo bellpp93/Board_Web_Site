@@ -45,6 +45,7 @@
 			<div class="jumbotron" style="padding-top: 20px;">
 				<form method="post" action="loginAction.jsp">
 					<h3 style="text-align: center;">로그인 화면</h3>
+					<br>
 					<div class="form-group">
 						<input type="text" class="form-control" placeholder="아이디" name="userID" maxlength="20">
 					</div>
